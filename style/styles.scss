@@ -5,6 +5,9 @@
 @import './blocs/base/var';
 @import './blocs/base/utils';
 @import './blocs/base/globals';
+@import './blocs/blocs/field';
+@import './blocs/blocs/radios';
+@import './blocs/blocs/radio';
 @import './blocs/blocs/button';
 @import './blocs/blocs/grid';
 @import './blocs/blocs/burger-button';
@@ -24,4 +27,9 @@
 @import './blocs/blocs/pagination';
 @import './blocs/blocs/reviews';
 @import './blocs/blocs/reviews-card';
+@import './blocs/blocs/contact-us';
+@import './blocs/blocs/soc1als';
+@import './blocs/blocs/subscribe-form';
+@import './blocs/blocs/footer';
+
 
